@@ -12,36 +12,13 @@ To run `DFS-Visualizer`, pip install using:
 ```bash
 git clone https://github.com/omarrayyann/DFS-Visualizer
 cd qudra
-pip install --upgrade .
+pip install pygame
 ```
 
-If you also want to download the dependencies needed to run optional tutorials, please use `pip install --upgrade .[dev]` or `pip install --upgrade '.[dev]'` (for `zsh` users).
+## How to use
 
-
-#### Installation for Devs
-
-If you intend to contribute to this project, please install `qudra` in editable mode as follows:
-```bash
-git clone https://github.com/qcenergy/qudra.git
-cd qudra
-pip install -e .[dev]
-```
-
-python3 -m venv venv
-. venv/bin/activate
-Please use `pip install -e '.[dev]'` if you are a `zsh` user.
-
-#### Building documentation locally
-
-Set yourself up to use the `[dev]` dependencies. Then, from the command line run:
-```bash
-mkdocs build
-```
+1- Click on the screen to add new vertices
+2- Connect vertices together
+3- Click Visualzie
 
 <img width="801" alt="Screen Shot 2022-03-29 at 12 42 43 PM" src="https://user-images.githubusercontent.com/77675540/160571282-87732406-67c7-4517-bae9-6104a6249773.png">
-
-Then, when you're ready to deploy, run:
-```bash
-mkdocs gh-deploy
-```
-
