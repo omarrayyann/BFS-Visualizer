@@ -11,8 +11,8 @@ To run `DFS-Visualizer`, pip install using:
 
 ```bash
 git clone https://github.com/omarrayyann/DFS-Visualizer
-cd qudra
 pip install pygame
+run DFS-visualizer
 ```
 
 ## How to use
