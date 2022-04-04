@@ -19,7 +19,7 @@ pip install pygame
 
 1- Click on the screen to add new vertices \
 2- Connect any of the vertices together \
-3- Click Visualzie
+3- Click Visualize
 4- Click Clear once it's over and start again!
 
 # Video Demo
