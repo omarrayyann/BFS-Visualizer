@@ -18,9 +18,13 @@ pip install pygame
 ## How to use
 
 1- Click on the screen to add new vertices \
-2- Connect vertices together \
-3- Click Visualzie 
+2- Connect any of the vertices together \
+3- Click Visualzie
+4- Click Clear once it's over and start again!
 
 # Video Demo
+https://youtu.be/ttaWmwfb5UY
 
-<img width="801" alt="Screen Shot 2022-03-29 at 12 42 43 PM" src="https://user-images.githubusercontent.com/77675540/160571282-87732406-67c7-4517-bae9-6104a6249773.png">
+# Screenshots
+<img width="801" alt="Screenshot 1" src="https://user-images.githubusercontent.com/77675540/161626182-23042239-2578-423d-a96d-6a49a7ce58f7.png">
+<img width="801" alt="Screenshot 2" src="https://user-images.githubusercontent.com/77675540/161626344-3b2f376e-6a59-4005-8aff-d4406e983326.png">
