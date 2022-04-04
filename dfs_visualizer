@@ -22,10 +22,11 @@ stack = []
 visualize_start = False
 iterations = 0
 
-visualize_button = pygame.image.load('visualize_button.png').convert_alpha()
+visualize_button = pygame.image.load(
+    "Sources/visualize_button.png").convert_alpha()
 visualize_button = pygame.transform.scale(visualize_button, (115, 34))
 
-clear_button = pygame.image.load('clear_button.png').convert_alpha()
+clear_button = pygame.image.load("Sources/clear_button.png").convert_alpha()
 clear_button = pygame.transform.scale(clear_button, (79, 34))
 
 
