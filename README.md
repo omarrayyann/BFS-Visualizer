@@ -1,16 +1,16 @@
-# Breadth First Search Visualizer
+# Depth First Search Visualizer
 
 
-Visualizing Breadth First Search Algorithm which is an algorithm that traverses or searches tree data structures and graphs.
+Visualizing Depth First Search Algorithm which is an algorithm that traverses or searches tree data structures and graphs.
 
 ## Running BFS Visualizer
 
 To run `BFS-Visualizer`, pip install using:
 
 ```bash
-git clone https://github.com/omarrayyann/BFS-Visualizer
+git clone https://github.com/omarrayyann/DFS-Visualizer
 pip install pygame
-run BFS-visualizer
+run DFS-visualizer
 ```
 
 ## How to use
