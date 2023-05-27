@@ -1,18 +1,18 @@
-# Depth First Search Visualizer
+# Breadth First Search Visualizer
 
 
-Visualizing Depth First Search Algorithm which is an algorithm that traverses or searches tree data structures and graphs. The algorithm starts at the root of a tree and follows each branch as far as it can, then backtracks until it encounters an unexplored path, and explores it. In simple words, depth-first search starts by the exploration of the graph to its deepest point. When the deepest point is reached, it backtracks to a previous unex-
-plored neighbor. This process is then repeated until the whole graph is explored. If an isolated vertex is identified to be unvisited by the end of the process, DFS would be carried again starting from that vertex.
+Visualizing Breadth First Search Algorithm which is an algorithm that traverses or searches tree data structures and graphs. The algorithm starts at the root of a tree and follows each branch as far as it can, then backtracks until it encounters an unexplored path, and explores it. In simple words, breadth-first search starts by the exploration of the graph to its deepest point. When the deepest point is reached, it backtracks to a previous unex-
+plored neighbor. This process is then repeated until the whole graph is explored. If an isolated vertex is identified to be unvisited by the end of the process, BFS would be carried again starting from that vertex.
 
 
-## Running DFS Visualizer
+## Running BFS Visualizer
 
-To run `DFS-Visualizer`, pip install using:
+To run `BFS-Visualizer`, pip install using:
 
 ```bash
-git clone https://github.com/omarrayyann/DFS-Visualizer
+git clone https://github.com/omarrayyann/BFS-Visualizer
 pip install pygame
-run DFS-visualizer
+run BFS-visualizer
 ```
 
 ## How to use
