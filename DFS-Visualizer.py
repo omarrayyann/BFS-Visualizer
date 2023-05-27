@@ -156,7 +156,7 @@ def visualize():
         working = False
     while not len(stack) == 0 and working:
         iterations += 1
-        held_vertix = stack.pop()
+        held_vertix = stack.pop(0)
         visited.append(held_vertix)
         setup_screen()
         vertix = vertices[held_vertix]
